@@ -4,13 +4,14 @@
 
 - 15
 - he/him
-- open for part time employment
+- open for freelance employment
 - student
 - writer
 - artist
 - tech-savvy
 - knowledge of cybercrime
 - good team player
+- cryptocurrency enthusiast
 
 
 ### Languages ###
