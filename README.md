@@ -51,4 +51,4 @@
 ---
 
 ### Random Cat Gif ###
-<img src='https://cutewallpaper.org/21/cute-animated-cats/Pin-on-Cats.gif' alt='Cute Cat'>
+<img src='random_cat.gif' alt='Cute Cat'>
