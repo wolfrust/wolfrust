@@ -16,11 +16,11 @@
 
 ### Languages ###
 
-**Web** ↝ `HTML (Experienced)`, `CSS (Basic)`, `JS (Experienced)`, `PHP (Experienced)`, `MySQL (Experienced)`, `MongoDB (Intermediate)`
+**Web** ↝ `HTML (Advanced)`, `CSS (Basic)`, `JS (Advanced)`, `PHP (Advanced)`, `MySQL (Advanced)`, `MongoDB (Intermediate)`
 
-**Sys** ↝ `Python (Experienced)`, `Perl (Basic)`, `Rust (Decent)`
+**Sys** ↝ `Python (Advanced)`, `Perl (Basic)`, `Rust (Basic)`
 
-**Human** ↝ `English (Fluent)`, `French (Intermediate)`, `Spanish (Basic)`
+**Human** ↝ `English (Advanced)`, `French (Intermediate)`, `Spanish (Basic)`
 
 ---
 
