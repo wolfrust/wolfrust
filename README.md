@@ -4,14 +4,17 @@
 
 - 15
 - he/him
-- open for freelance employment
+
 - student
 - writer
 - artist
-- tech-savvy
-- knowledge of cybercrime
-- good team player
+- programmer
+- tech geek
+
+- hacker::malware_generation
 - cryptocurrency enthusiast
+
+- open for freelance employment
 
 
 ### Languages ###
