@@ -2,18 +2,9 @@
 
 ### About me ###
 
-- 15
-- he/him
-
-- student
-- writer
-- artist
-- programmer
-- tech geek
-
-- hacker::malware_generation
-- cryptocurrency enthusiast
-
+- 15, he/him
+- student, writer, artist, programmer, hacker::malware_generation
+- tech geek, cryptocurrency enthusiast, avid reader
 - open for freelance employment
 
 
