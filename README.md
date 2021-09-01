@@ -42,6 +42,8 @@
 |------| ---------|
 | [Instagram](https://instagram.com/mateo.xz) | mateo.xz |
 | [Twitter](https://twitter.com/Mate0x3) | Mate0x3 |
+| [Steam](https://steamcommunity.com/profiles/76561199192135877) | sparkyleaf |
+| [Roblox](https://www.roblox.com/users/2764136705/profile) | sparkyleaf |
 
 ---
 
