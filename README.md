@@ -4,7 +4,7 @@
 
 - 15, he/him
 - student, writer, artist, programmer, hacker::malware_generation
-- tech geek ([!](geek-nerd-dork-dweeb.png)), cryptocurrency enthusiast, avid reader
+- tech geek [(not nerd)](geek-nerd-dork-dweeb.png), cryptocurrency enthusiast, avid reader
 - open for freelance employment
 
 
