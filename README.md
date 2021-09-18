@@ -24,6 +24,7 @@
 - [Grr](https://github.com/wolfrust/Grr) - Battery sensitive hash cracker
 - [UtzX](https://github.com/wolfrust/UtzX) - Collection of useful computer programs
 - [ToastMail](https://toastmail.xyz) - Sexy email reminder app
+- [Bannoti](https://github.com/wolfrust/bannoti) - Desktop notification tool for Banano
 
 ---
 
