@@ -48,5 +48,20 @@
 
 ---
 
+### Stats ###
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wolfrust&theme=monokai) 
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wolfrust&theme=monokai) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=wolfrust&layout=compact)
+
+
+<a href="https://stackoverflow.com/users/17016020/mateo-cruz"><img src="https://stackoverflow.com/users/flair/17016020.png?theme=clean" width="208" height="58" alt="profile for Mateo Cruz at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Mateo Cruz at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
+
+
+---
+
 ### Random Cat Gif ###
 <img src='random_cat.gif' alt='Cute Cat'>
