@@ -41,10 +41,10 @@
 
 | Site | Username |
 |------| ---------|
-| [Instagram](https://instagram.com/mateo.xz) | mateo.xz |
-| [Twitter](https://twitter.com/Mate0x3) | Mate0x3 |
-| [Steam](https://steamcommunity.com/profiles/76561199192135877) | sparkyleaf |
-| [Roblox](https://www.roblox.com/users/2764136705/profile) | sparkyleaf |
+| [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mateo.xz) |  mateo.xz |
+| [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Mate0x3) | Mate0x3 |
+| [![](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199192135877) |sparkyleaf|
+
 
 ---
 
@@ -54,7 +54,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wolfrust&theme=monokai) 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wolfrust&theme=monokai) 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=wolfrust&layout=compact)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wolfrust&layout=compact) -->
 
 
 <a href="https://stackoverflow.com/users/17016020/mateo-cruz"><img src="https://stackoverflow.com/users/flair/17016020.png?theme=clean" width="208" height="58" alt="profile for Mateo Cruz at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Mateo Cruz at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
