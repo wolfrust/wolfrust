@@ -43,7 +43,6 @@
 |------| ---------|
 | [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mateo.xz) |  mateo.xz |
 | [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Mate0x3) | Mate0x3 |
-| [![](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199192135877) |sparkyleaf|
 
 
 ---
