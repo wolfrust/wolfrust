@@ -4,17 +4,17 @@
 
 - 15, he/him
 - student, writer, artist, programmer, hacker::malware_generation
-- tech geek [(not nerd)](geek-nerd-dork-dweeb.png), cryptocurrency enthusiast, avid reader
+- cryptocurrency enthusiast, avid reader, AI is cool
 - ~~open for freelance employment~~ employed
 
 
 ### Languages ###
 
-**Web** ↝ `HTML (Advanced)`, `CSS (Basic)`, `JS (Advanced)`, `PHP (Advanced)`, `MySQL (Advanced)`, `MongoDB (Intermediate)`
+**Web** ↝ `HTML (Advanced)`, `CSS (Basic)`, `JS (Advanced)`, `PHP (Advanced)`, `MySQL (Advanced)`, `MongoDB (Advanced)`
 
 **Sys** ↝ `Python (Advanced)`, `Perl (Basic)`, `Rust (Basic)`
 
-**Human** ↝ `English (Advanced)`, `French (Intermediate)`, `Spanish (Basic)`
+**Human** ↝ `English (Advanced)`, `French (Intermediate)`, `Spanish (Intermediate)`, `Norweigan (Basic)`
 
 ---
 
