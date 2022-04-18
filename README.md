@@ -32,7 +32,7 @@
 | Method      | Details     |
 | ----------- | ----------- |
 | Email       | mateo.xzf@protonmail.ch |
-| Discord     | Spooked#8379    |
+| Discord     | Neptune#5778    |
 
 
 
