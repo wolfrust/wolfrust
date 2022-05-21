@@ -2,7 +2,7 @@
 
 ### About me ###
 
-- 15, he/him
+- 16, he/him
 - student, writer, artist, programmer, hacker::malware_generation
 - cryptocurrency enthusiast, avid reader, AI is cool
 
