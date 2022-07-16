@@ -31,7 +31,7 @@
 
 | Method      | Details     |
 | ----------- | ----------- |
-| Email       | mateo.xzf@protonmail.ch |
+| Email       | mateo.xzf@tuta.io |
 | Discord     | Neptune#5778    |
 
 
