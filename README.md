@@ -1,4 +1,4 @@
-# Hi 👋, I'm Mateo #
+# Hi 👋, I'm Neptune #
 
 ### About me ###
 
@@ -34,16 +34,6 @@
 | Email       | mateo.xzf@tuta.io |
 | Discord     | Neptune#5778    |
 
-
-
-### Social ###
-
-| Site | Username |
-|------| ---------|
-| [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mateo.xz) |  mateo.xz |
-| [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/wo1frust) | wo1frust |
-
-
 ---
 
 ### Stats ###
@@ -53,11 +43,6 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wolfrust&theme=monokai) 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wolfrust&layout=compact) -->
-
-
-<a href="https://stackoverflow.com/users/17016020/mateo-cruz"><img src="https://stackoverflow.com/users/flair/17016020.png?theme=clean" width="208" height="58" alt="profile for Mateo Cruz at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Mateo Cruz at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-
-
 
 ---
 
