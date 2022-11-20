@@ -24,6 +24,7 @@
 - [UtzX](https://github.com/wolfrust/UtzX) - Collection of useful computer programs
 - [ToastMail](https://toastmail.xyz) - Sexy email reminder app
 - [Bannoti](https://github.com/wolfrust/bannoti) - Desktop notification tool for Banano
+- [CatRoles](https://replit.com/@wolffxxe/CatRoles#main.py) - Discord bot for EEPC (a server)
 
 ---
 
