@@ -33,7 +33,7 @@
 
 | Method      | Details     |
 | ----------- | ----------- |
-| Email       | mateo.xzf@tuta.io |
+| Email       | wineglass@tutanota.de |
 | Discord     | Neptune#5778    |
 
 ---
