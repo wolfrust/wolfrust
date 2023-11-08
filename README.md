@@ -1,11 +1,9 @@
-# Hi 👋, I'm Neptune #
+# Hi 👋, I'm Aditya #
 
 ### About me ###
 
-- 16, he/him
+- 17 years old
 - student, writer, artist, programmer, hacker::malware_generation
-- cryptocurrency enthusiast, avid reader, AI is cool
-
 
 ### Languages ###
 
@@ -13,7 +11,7 @@
 
 **Sys** ↝ `Python (Advanced)`, `Perl (Basic)`, `Rust (Basic)`
 
-**Human** ↝ `English (Advanced)`, `French (Intermediate)`, `Spanish (Intermediate)`, `Norweigan (Basic)`
+**Human** ↝ `English (Advanced)`, `French (Intermediate)`, `Spanish (Intermediate)`
 
 ---
 
@@ -33,20 +31,7 @@
 
 | Method      | Details     |
 | ----------- | ----------- |
-| Email       | wineglass@tutanota.de |
+| Email       | 901aditya109@gmail.com |
 | Discord     | Neptune#5778    |
 
 ---
-
-### Stats ###
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wolfrust&theme=monokai) 
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wolfrust&theme=monokai) 
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wolfrust&layout=compact) -->
-
----
-
-### Random Cat Gif ###
-<img src='random_cat.gif' alt='Cute Cat'>
