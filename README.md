@@ -9,7 +9,7 @@
 
 **Web** ↝ `HTML (Advanced)`, `CSS (Basic)`, `JS (Advanced)`, `PHP (Advanced)`, `MySQL (Advanced)`, `MongoDB (Advanced)`
 
-**Sys** ↝ `Python (Advanced)`, `Perl (Basic)`, `Rust (Basic)`
+**Sys** ↝ `Python (Advanced)`, `Perl (Basic)`, `Rust (Basic)`, `Batchfile (Intermediate)`, `C# (Basic)`
 
 **Human** ↝ `English (Advanced)`, `French (Intermediate)`, `Spanish (Intermediate)`
 
